@@ -129,6 +129,10 @@ a.brand {
   flex: 1 1 25rem;
 }
 
+.col-1 h1 {
+  color: #480ca8;
+}
+
 .col-2 {
   flex: 2 1 50rem;
 }
